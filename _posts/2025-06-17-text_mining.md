@@ -10,7 +10,7 @@ tags: [Sungil Software Study, Blog]
 > 이 문서는 대한민국헌법 텍스트를 예시로, 한국어 텍스트 분석과 시각화를 단계별로 설명합니다.
 > 분석 과정에서는 **명사 추출 → 단어 정제 → 빈도 계산 → 시각화**의 흐름을 따라가며, Python과 Jupyter Notebook을 활용합니다.
 
-![대표 이미지](/Users/gaengji/Desktop/capture/text-mining/TextCloud.png)
+![대표 이미지](/assets/images/TextCloud.png)
 
 > 💡 설명: 이 이미지는 분석 결과를 직관적으로 보여주는 워드클라우드 예시입니다. 실제 데이터와 형태는 달라질 수 있습니다.
 
