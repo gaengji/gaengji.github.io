@@ -7,7 +7,7 @@
 #  icon: "fa-brands fa-x-twitter"
 
 - type: notion
-  icon: "/img/Notion-logo.svg"
+  icon: "fas fa-book"
   url: "https://plume-pantry-8f8.notion.site/Main-2720313e9fc480d59a68e5dd61c57c9c?pvs=73"
 
 - type: email
